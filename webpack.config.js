@@ -7,7 +7,7 @@ const htmlPlugin = new HtmlWebPackPlugin({
 
 module.exports = {
   entry: {
-    pageA: './src/pag-a.js',
+    // pageA: './src/pag-a.js',
     pageB: './src/index.js',
   },
   output: {
